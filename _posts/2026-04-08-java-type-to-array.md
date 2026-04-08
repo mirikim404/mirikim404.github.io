@@ -1,6 +1,6 @@
 ---
 title: "[Java] 타입 → 배열 변환 정리"
-date: 2026-04-08
+date: 2026-04-08 00:00:00 +0900
 categories: [java, 개념정리]
 tags: [java, array, string, 코테]
 ---
