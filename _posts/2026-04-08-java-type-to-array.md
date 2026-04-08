@@ -13,7 +13,7 @@ char[] arr = s.toCharArray();
 // ['h', 'e', 'l', 'l', 'o']
 ```
 
-### 'String[]'로 변환 (split)
+### `String[]`로 변환 (split)
 ```java
 // 구분자 기준 분리
 String s = "a, b, c";
