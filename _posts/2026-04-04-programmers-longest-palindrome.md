@@ -1,6 +1,6 @@
 ---
 title: "[프로그래머스] 가장 긴 팰린드롬"
-date: 2026-04-04
+date: 2026-04-04 00:00:00 +0900
 categories: [Algorithm, 프로그래머스]
 tags: [Level3, 문자열, DP]
 ---
