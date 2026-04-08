@@ -101,6 +101,6 @@ String s3 = String.join("", arr2); // "abc"
 | `String` → `char[]` | `s.toCharArray()` | `char[]` |
 | `String` → `String[]` | `s.split("")` | `String[]` |
 | `int` → `String[]` | `String.valueOf(n).split("")` | `String[]` |
-| `int` → `int[]` | stream `.chars().map(c->c-'0').toArray()` | `int[]` |
+| `int` → `int[]` | `.chars().map(c->c-'0').toArray()` | `int[]` |
 | `char[]` → `String` | `new String(arr)` | `String` |
 | `String[]` → `String` | `String.join("", arr)` | `String` |
