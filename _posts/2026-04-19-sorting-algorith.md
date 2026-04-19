@@ -1,7 +1,7 @@
 ---
 title: "[Java] 정렬 알고리즘 총정리 (import 없이 구현)"
 date: 2026-04-19 00:00:00 +0900
-categories: [Algorithm, 정렬]
+categories: [java, 개념정리]
 tags: [Java, 정렬, 버블정렬, 선택정렬, 삽입정렬, 퀵정렬, 병합정렬]
 ---
 
